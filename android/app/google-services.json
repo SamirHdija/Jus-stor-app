@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255850265028",
+    "project_id": "jus-app-c5a8d",
+    "storage_bucket": "jus-app-c5a8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255850265028:android:0a4c1abca0ae2992974c91",
+        "android_client_info": {
+          "package_name": "com.example.ecom_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255850265028-k4vk714v58snb3mujhs96ip4barr6a2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-a66BIi7SRAWA5S_XjstljrFiK6h_u68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255850265028-k4vk714v58snb3mujhs96ip4barr6a2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
